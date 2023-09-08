@@ -21,6 +21,10 @@
     GNU General Public License for more details.
 */
 
+// RA4M1 User’s Manual: Hardware
+// This doc has all the register discriptions I use:
+// https://www.renesas.com/us/en/document/mah/renesas-ra4m1-group-users-manual-hardware
+
 /* For external aref - ADR4540 - Ultralow Noise, High Accuracy Voltage Reference
    Using an aref gives c. +- 1 to 2 value in 14 bit reads on USB power
 https://www.analog.com/media/en/technical-documentation/data-sheets/adr4520_4525_4530_4533_4540_4550.pdf
